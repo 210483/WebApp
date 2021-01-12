@@ -5,3 +5,8 @@ section {
 header {
     background: #3c9166
 }
+
+.Home {
+  display: inline-block;
+  cursor: pointer;
+}
