@@ -32,8 +32,9 @@ header {
     -webkit-transform: rotate(-90deg) translate(13px, -15px);
     transform: rotate(-90deg) translate(13px, -15px);
 }
-<script>
+
+
 function myFunction(x) {
     x.classList.toggle("change");
 }
-</script>
+
