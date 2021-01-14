@@ -94,6 +94,10 @@ article {
         margin: 10px 0px;
         /* height: 500px; */
     }
+
+    .liggendImg {
+        width: 100%;
+    }
 }
 
 
