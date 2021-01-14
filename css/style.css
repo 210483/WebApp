@@ -43,11 +43,16 @@ h4 {
     margin: 5px 0px;
 }
 
-img {
+.staandImg {
     float: right;
     margin-left: 7px;
-    /* height: fit-content; */
     width: 20%;
+}
+
+.liggendImg {
+    width: 30%;
+    display: block;
+    margin: auto;
 }
 
 
@@ -73,14 +78,14 @@ article {
 }
 
 @media screen and (max-width: 800px) {
-    img {
+    .staandImg {
         width: 30%;
         /* height: 500px; */
     }
 }
 
 @media screen and (max-width: 700px) {
-    img {
+    .staandImg {
         width: 100%;
         margin: 10px 0px;
         /* height: 500px; */
