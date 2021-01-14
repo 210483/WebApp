@@ -16,21 +16,16 @@ h1 {
 .container {
     background-color: #7BBA9A;
     padding: 30px;
-    /* overflow-y: auto; */
-    float: left;
+    /* float: left; */
 }
 
 h2 {
-    margin: auto;
-    margin-bottom: 30px;
-    float: left;
-    width: 100%;
+    margin: 0px 0px 30px 0px;
     text-align: center;
     font-size: 28px;
 }
 
 h3 {
-    width: 100%;
     font-size: 1.4em;
 }
 
@@ -46,40 +41,28 @@ h4 {
 }
 
 .liggendImg {
-    width: 30%;
+    width: 40%;
     display: block;
     margin: auto;
     margin-bottom: 40px;
 }
-
 
 section {
     margin-bottom: 6em;
 }
 
 section p {
-    /* margin: 10px;
-    margin-left: 0px;
-    margin-bottom: 50px; */
-    /* float: left; */
     width: 100%;
     margin: 0px;
 }
 
 .makers {
-    margin-top: 30px;
+    margin-top: 40px;
     margin-bottom: 150px;
 }
 
 article {
     margin-bottom: 4em;
-}
-
-@media screen and (max-width: 800px) {
-    .staandImg {
-        width: 30%;
-        /* height: 500px; */
-    }
 }
 
 @media screen and (max-width: 700px) {
