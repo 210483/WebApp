@@ -68,9 +68,43 @@ article {
     .staandImg, .liggendImg {
         width: 100%;
         margin: 15px 0px;
-        /* height: 500px; */
     }
 }
 
 
+/* form */
+input[type=text], input[type=email] {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 12px 6px;
+    margin: 0px 0px 15px 0px;
+}
 
+fieldset {
+    padding: 20px;
+}
+
+input[type=button] {
+    margin-top: 15px;
+}
+
+input[type=submit] {
+    padding: 6px 2px;
+    display: block;
+    margin-top: 10px;
+}
+
+/* Table */
+table, th, td {
+    border: 1px solid black;
+    /* border-radius: 4px; */
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 4px 8px;
+}
+
+th {
+    background-color: #52b452;
+}
