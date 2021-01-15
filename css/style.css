@@ -5,6 +5,9 @@ section {
 header {
     background-color: #3c9166
 }
+.home {
+    background-color:#f9f9f9; 
+}
 
 .home:hover {
     background-color: #3c9166; 
