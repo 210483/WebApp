@@ -10,7 +10,6 @@ header {
     display: inline-block;
     cursor: pointer;
 }
-/*dropdown 1 */
 .knop {
     background-color: #3c9166;
     color: black;
@@ -34,6 +33,7 @@ header {
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
+
 }
 
 .dropdown-content a {
@@ -41,12 +41,14 @@ header {
     padding: 12px 16px;
     text-decoration: none;
     display: block;
+
 }
 
 .dropdown-content a:hover {background-color: #f1f1f1}
 
 .dropdown:hover .dropdown-content {
     display: block;
+
 }
 
 /*dropdown 2 */
@@ -62,6 +64,8 @@ header {
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
+    left: 90%;
+    top: 20%;
 }
 
 .dropdown-content2 a {
@@ -95,6 +99,8 @@ header {
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
+    left: 90%;
+    top: 20%;
 }
 
 .dropdown-content3 a {
@@ -128,6 +134,8 @@ header {
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
+    left: 90%;
+    top: 20%;
 }
 
 .dropdown-content4 a {
