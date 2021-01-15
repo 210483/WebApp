@@ -108,10 +108,11 @@ th, td {
 th {
     background-color: #52b452;
 }
+
+/* Menu Icoon */
 .container {
     display: inline-block;
     cursor: pointer;
-    background-color: #3c9166; 
 }
 
 .bar1, .bar2, .bar3 {
