@@ -6,7 +6,7 @@ header {
     background-color: #3c9166
 }
 
-.home {
+.home:hover {
     background-color: #3c9166; 
 }
 .knop {
@@ -43,7 +43,9 @@ header {
 
 }
 
-.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown-content a:hover {
+    background-color: #f1f1f1
+}
 
 .dropdown:hover .dropdown-content {
     display: block;
