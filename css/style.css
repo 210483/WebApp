@@ -111,6 +111,7 @@ th {
 .container {
     display: inline-block;
     cursor: pointer;
+    background-color: #3c9166;
 }
 
 .bar1, .bar2, .bar3 {
