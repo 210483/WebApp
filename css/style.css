@@ -108,7 +108,7 @@ th, td {
 th {
     background-color: #52b452;
 }
-.home {
+.container {
     display: inline-block;
     cursor: pointer;
 }
